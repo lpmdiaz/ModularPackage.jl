@@ -1,6 +1,6 @@
 name = "ModularPackage"
 uuid = "c24169f5-4732-4716-9f04-e0d400d4a8a7"
-authors = ["lpmdiaz <leo-diaz@hotmail.fr>"]
+authors = ["lpmdiaz <lpdiaz@student.unimelb.edu.au>"]
 version = "0.1.0"
 
 [deps]
