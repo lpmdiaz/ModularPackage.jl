@@ -1,0 +1,3 @@
+module ModularPackage
+
+end # module
